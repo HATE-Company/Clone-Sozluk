@@ -1,0 +1,115 @@
+[
+    {
+        "id": "1",
+        "title": "Gaming",
+        "img": "/icons/game.png",
+        "slug": "#",
+        "children": [
+            {
+                "id": "7",
+                "title": "Strategy",
+                "slug": "#"
+            },
+            {
+                "id": "8",
+                "title": "Multiplayer",
+                "slug": "#"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Sports",
+        "img": "/icons/sport.png",
+        "slug": "#",
+        "children": [
+            {
+                "id": "3",
+                "title": "Basketball",
+                "slug": "#"
+            },
+            {
+                "id": "4",
+                "title": "Football",
+                "slug": "#"
+            },
+            {
+                "id": "5",
+                "title": "Baseball",
+                "slug": "#"
+            },
+            {
+                "id": "6",
+                "title": "Volleyball",
+                "slug": "#"
+            }
+        ]
+    },
+    {
+        "id": "99",
+        "title": "Television",
+        "img": "/icons/television.png",
+        "slug": "#",
+        "children": [
+            {
+                "id": "3",
+                "title": "Series",
+                "slug": "#"
+            },
+            {
+                "id": "4",
+                "title": "Movies",
+                "slug": "#"
+            }
+        ]
+    },
+    {
+        "id": "98",
+        "title": "Celebrity",
+        "img": "/icons/celebrity.png",
+        "slug": "#",
+        "children": [
+            {
+                "id": "3",
+                "title": "Artists",
+                "slug": "#"
+            }
+        ]
+    },
+    {
+        "id": "97",
+        "title": "Business",
+        "img": "/icons/business.png",
+        "slug": "#",
+        "children": [
+            {
+                "id": "3",
+                "title": "Law",
+                "slug": "#"
+            },
+            {
+                "id": "4",
+                "title": "Information Technologies",
+                "slug": "#"
+            },
+            {
+                "id": "5",
+                "title": "Energy",
+                "slug": "#"
+            }
+        ]
+    },
+    {
+        "id": "96",
+        "title": "More",
+        "img": "/icons/more.png",
+        "slug": "#",
+        "children": [
+            {
+                "id": "3",
+                "title": "Sample Title",
+                "slug": "#"
+            }
+        ]
+    }
+]

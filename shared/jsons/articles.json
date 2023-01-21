@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "author": "Fourthy",
+        "slug": "#",
+        "img": "",
+        "date": "1 minutes ago",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus."
+    },
+    {
+        "id": "2",
+        "author": "CryptoCurrent",
+        "slug": "#",
+        "img": "",
+        "date": "3 minutes ago",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus."
+    },
+    {
+        "id": "3",
+        "author": "Prettyflw",
+        "slug": "#",
+        "img": "/articleImage.png",
+        "date": "5 minutes ago",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus.  Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus."
+    },
+    {
+        "id": "4",
+        "author": "loremIpsum",
+        "slug": "#",
+        "img": "",
+        "date": "5 minutes ago",
+        "text": "Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır. Beşyüz yıl boyunca varlığını sürdürmekle kalmamış, aynı zamanda pek değişmeden elektronik dizgiye de sıçramıştır. 1960'larda Lorem Ipsum pasajları da içeren Letraset yapraklarının yayınlanması ile ve yakın zamanda Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayıncılık yazılımları ile popüler olmuştur."
+    }
+]

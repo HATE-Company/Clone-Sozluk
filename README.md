@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Live Demo
 
-https://clone-sozluk-mij86xtpv-emrekaradag11.vercel.app
+https://clone-sozluk-phi.vercel.app/
 
 ## Getting Started
 

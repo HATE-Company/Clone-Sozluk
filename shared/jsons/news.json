@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "title": "Apple",
+        "slug": "#",
+        "img": "/news1.png",
+        "date": "1 minutes ago",
+        "text": "apple makes plans to move production out of china - WSJ",
+        "category": "r/news and more"
+    },
+    {
+        "id": "2",
+        "title": "Cats",
+        "slug": "#",
+        "img": "/news2.jpg",
+        "date": "1 minutes ago",
+        "text": "My cat was attacked by a bobcat two weeks ago and had one of...",
+        "category": "r/cats and more"
+    },
+    {
+        "id": "3",
+        "title": "Lionel Messi",
+        "slug": "#",
+        "img": "/news3.jpeg",
+        "date": "1 minutes ago",
+        "text": "Lionel Messi with hşs nab of the match trophy",
+        "category": "r/soccer and more"
+    }
+]

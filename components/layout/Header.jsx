@@ -6,9 +6,9 @@ import SearchBox from '../search/SearchBox'
 function Header() {
   return (
     <header>
-        <div className="col-xl-11 mx-auto p-0">
+        <div className="col-xl-11 mx-auto px-3">
             <div className="row align-items-center">
-                <div className="col">
+                <div className="col-lg col-auto">
                     <div id="logo">
                         <Image
                             src={Logo}
@@ -18,10 +18,10 @@ function Header() {
                         />    
                     </div>
                 </div>
-                <div className="col">
+                <div className="col-lg-6 col">
                     <SearchBox />
                 </div>
-                <div className="col">
+                <div className="col d-lg-block d-none">
                     
                 </div>
             </div>
